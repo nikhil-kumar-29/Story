@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello My name is Nik
+=======
+Being a vampire I can run at an extremely high pace
+>>>>>>> vampire-story

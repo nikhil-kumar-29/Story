@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I m learning web development
+=======
+At the spped of light , faster than Flash
+>>>>>>> vampire-story
